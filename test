@@ -1,0 +1,276 @@
+<template>
+  <div class="row col-12 col-md-8 col-sm-12 mx-auto">
+    <p>right number 874850</p>
+    <div ref="OTP_INPUT" class="col col-md-1 mx-2">
+      <input
+        v-for="(item, index) in pinLength"
+        :key="index"
+        :data-index="index"
+        v-model="otp_numbers[index]"
+        style="
+          width: 50px;
+          height: 50px;
+          text-align: center;
+          background: cadetblue;
+          left: auto;
+        "
+        class="rounded inputOtp"
+        type="tel"
+        maxLength="1"
+        autocomplete="off"
+        @paste="onPaste"
+        required
+        pattern="\d{1}"
+        autofocus
+      />
+    </div>
+  </div>
+  <!-- <div class="col col-md-1 mx-2">
+        <input
+        ref="inputOtp"
+        style="
+          width: 50px;
+          height: 50px;
+          text-align: center;
+          background: cadetblue;
+          left: auto;
+        "
+        class="rounded focus:ring-0"
+        type="text"
+        maxLength="1"
+        autocomplete="off"
+        required
+        pattern="\d{1}"
+        autofocus
+      />
+      </div>
+      <div class="col col-md-1 mx-2">
+        <input
+        ref="inputOtp"
+        style="
+          width: 50px;
+          height: 50px;
+          text-align: center;
+          background: cadetblue;
+          left: auto;
+        "
+        class="rounded focus:ring-0"
+        type="text"
+        maxLength="1"
+        autocomplete="off"
+        required
+        pattern="\d{1}"
+        autofocus
+      />
+      </div>
+      <div class="col col-md-1 mx-2">
+        <input
+        ref="inputOtp"
+        style="
+          width: 50px;
+          height: 50px;
+          text-align: center;
+          background: cadetblue;
+          left: auto;
+        "
+        class="rounded focus:ring-0"
+        type="text"
+        maxLength="1"
+        autocomplete="off"
+        required
+        pattern="\d{1}"
+        autofocus
+      />
+      </div>
+      <div class="col col-md-1 mx-2">
+        <input
+        ref="inputOtp"
+        style="
+          width: 50px;
+          height: 50px;
+          text-align: center;
+          background: cadetblue;
+          left: auto;
+        "
+        class="rounded focus:ring-0"
+        type="text"
+        maxLength="1"
+        autocomplete="off"
+        required
+        pattern="\d{1}"
+        autofocus
+      />
+      </div>
+      <div class="col col-md-1 mx-2">
+        <input
+        ref="inputOtp"
+        style="
+          width: 50px;
+          height: 50px;
+          text-align: center;
+          background: cadetblue;
+          left: auto;
+        "
+        class="rounded focus:ring-0"
+        type="text"
+        maxLength="1"
+        autocomplete="off"
+        required
+        pattern="\d{1}"
+        autofocus
+      />
+      </div> -->
+
+  <!-- <div class="col col-md-1 mx-2">
+      <input
+        style="
+          width: 50px;
+          height: 50px;
+          text-align: center;
+          background: cadetblue;
+          left: auto;
+        "
+        class="rounded focus:ring-0"
+        type="text"
+        maxLength="1"
+        autocomplete="off"
+        required
+        pattern="\d{1}"
+        autofocus
+      />
+    </div>
+    <div class="col col-md-1 mx-2">
+      <input
+        style="
+          width: 50px;
+          height: 50px;
+          text-align: center;
+          background: cadetblue;
+          left: auto;
+        "
+        class="rounded focus:ring-0"
+        type="text"
+        maxLength="1"
+        autocomplete="off"
+        required
+        pattern="\d{1}"
+      />
+    </div>
+    <div class="col col-md-1 mx-2">
+      <input
+        style="
+          width: 50px;
+          height: 50px;
+          text-align: center;
+          background: cadetblue;
+          left: auto;
+        "
+        class="rounded focus:ring-0"
+        type="text"
+        maxLength="1"
+        autocomplete="off"
+        required
+        pattern="\d{1}"
+      />
+    </div>
+    <div class="col col-md-1 mx-2">
+      <input
+        style="
+          width: 50px;
+          height: 50px;
+          text-align: center;
+          background: cadetblue;
+          left: auto;
+        "
+        class="rounded focus:ring-0"
+        type="text"
+        maxLength="1"
+        autocomplete="off"
+        required
+        pattern="\d{1}"
+      />
+    </div>
+    <div class="col col-md-1 mx-2">
+      <input
+        style="
+          width: 50px;
+          height: 50px;
+          text-align: center;
+          background: cadetblue;
+          left: auto;
+        "
+        class="rounded focus:ring-0"
+        type="text"
+        maxLength="1"
+        autocomplete="off"
+        required
+        pattern="\d{1}"
+      />
+    </div>
+    <div class="col col-md-1 mx-2">
+      <input
+        style="
+          width: 50px;
+          height: 50px;
+          text-align: center;
+          background: cadetblue;
+          left: auto;
+        "
+        class="rounded focus:ring-0"
+        type="text"
+        maxLength="1"
+        autocomplete="off"
+        required
+        pattern="\d{1}"
+      />
+    </div> -->
+</template>
+
+<script>
+export default {
+  data() {
+    return {
+      otpIndex: "",
+      pinLength: 6,
+      otp_numbers: [],
+    };
+  },
+  computed: {
+    otp() {
+      return this.otp_numbers.join("");
+    },
+  },
+
+  methods: {
+    // onInput: function (evt) {
+    //   const inputs = this.$refs.OTP_INPUT.children;
+    //   const findID = evt.target.dataset.index;
+    //   if (findID + 1 <= this.pinLength) inputs[findID + 1].focus();
+    // },
+    // keydown: function (evt) {
+    //   const inputs = this.$refs.OTP_INPUT.children;
+    //   const findID = evt.target.dataset.index;
+    //   if (evt.which === 8 && !this.value && findID) {
+    //     inputs[findID - 1].focus();
+    //   }
+    // },
+    onPaste: function (evt) {
+      const inputs = this.$refs.OTP_INPUT.children;
+      // const findID = evt.target.dataset.index;
+      const clipdata = evt.clipboardData || window.clipboardData;
+      const pastedData = clipdata.getData("text/plain");
+      var pastedChars = pastedData.split("");
+      console.log(pastedChars);
+
+      // console.log((inputs[findID].value = pastedChars[findID]));
+      for (var i = 0; i < pastedChars.length; i++) {
+        console.log(pastedChars[i]);
+        if (i + 1 < pastedChars.length) inputs[3].focus();
+      }
+    },
+  },
+};
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped></style>
