@@ -2,19 +2,25 @@
   <v-app>
     <v-main>
       <div class="mx-auto">
-        <index></index>
+        <vueinput-otp :pinLength="pinLength" :values="values"></vueinput-otp>
       </div>
     </v-main>
   </v-app>
 </template>
 
 <script>
-import Index from "./components/Index.vue";
+import VueinputOtp from "./components/VueinputOtp.vue";
 
 export default {
   name: "App",
   components: {
-    Index,
+    VueinputOtp,
+  },
+  data() {
+    return {
+      pinLength: 6,
+      values: [],
+    };
   },
 };
 </script>
