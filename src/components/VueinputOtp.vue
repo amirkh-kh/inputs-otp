@@ -61,7 +61,7 @@ export default {
       const index = parseInt(e.target.dataset.index);
       const value = e.target.value;
 
-      if (e.which === 8 || !value || index) {
+      if (e.which === 8 && !value && index) {
         if (index + 1 > 0) {
           this.$refs[`input-${index - 1}`][0].focus();
         }
