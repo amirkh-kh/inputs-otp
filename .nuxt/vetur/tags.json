@@ -1,0 +1,380 @@
+{
+  "Calculator": {
+    "description": "Auto imported from components/Calculator.vue"
+  },
+  "ContactUsWidget": {
+    "description": "Auto imported from components/ContactUsWidget.vue"
+  },
+  "CryptoIcon": {
+    "description": "Auto imported from components/CryptoIcon.vue"
+  },
+  "CryptosSlider": {
+    "description": "Auto imported from components/CryptosSlider.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "IntroDialog": {
+    "description": "Auto imported from components/IntroDialog.vue"
+  },
+  "Loading": {
+    "description": "Auto imported from components/Loading.vue"
+  },
+  "Menu": {
+    "description": "Auto imported from components/Menu.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "ChartsAreaChart": {
+    "description": "Auto imported from components/charts/AreaChart.js"
+  },
+  "ChartsDashboardLineChart": {
+    "description": "Auto imported from components/charts/DashboardLineChart.vue"
+  },
+  "ChartsDonutChart": {
+    "description": "Auto imported from components/charts/DonutChart.vue"
+  },
+  "ChartsHomeLineChart": {
+    "description": "Auto imported from components/charts/HomeLineChart.vue"
+  },
+  "ChartsLightweightChart": {
+    "description": "Auto imported from components/charts/LightweightChart.vue"
+  },
+  "ChartsLineChart": {
+    "description": "Auto imported from components/charts/LineChart.vue"
+  },
+  "ChartsPieCharWallet": {
+    "description": "Auto imported from components/charts/PieCharWallet.vue"
+  },
+  "ChartsSemiDonutChart": {
+    "description": "Auto imported from components/charts/SemiDonutChart.vue"
+  },
+  "ConvertCards": {
+    "description": "Auto imported from components/convert/ConvertCards.vue"
+  },
+  "ConvertRabinConvert": {
+    "description": "Auto imported from components/convert/RabinConvert.vue"
+  },
+  "DashboardOverviewWidget": {
+    "description": "Auto imported from components/dashboard/OverviewWidget.vue"
+  },
+  "DashboardProfileWidget": {
+    "description": "Auto imported from components/dashboard/ProfileWidget.vue"
+  },
+  "DashboardStatusTooltip": {
+    "description": "Auto imported from components/dashboard/StatusTooltip.vue"
+  },
+  "DashboardTransactionList": {
+    "description": "Auto imported from components/dashboard/TransactionList.vue"
+  },
+  "LoginRabinLogin": {
+    "description": "Auto imported from components/login/RabinLogin.vue"
+  },
+  "MarketsSlider": {
+    "description": "Auto imported from components/markets/MarketsSlider.vue"
+  },
+  "MarketsTable": {
+    "description": "Auto imported from components/markets/MarketsTable.vue"
+  },
+  "MarketsOtcTable": {
+    "description": "Auto imported from components/markets/OtcTable.vue"
+  },
+  "RabinToolsCrispMobileBtn": {
+    "description": "Auto imported from components/rabinTools/CrispMobileBtn.vue"
+  },
+  "RabinToolsLoadingIcon": {
+    "description": "Auto imported from components/rabinTools/LoadingIcon.vue"
+  },
+  "RabinTextField": {
+    "description": "Auto imported from components/rabinTools/RabinTextField.vue"
+  },
+  "RabinTextFieldConvert": {
+    "description": "Auto imported from components/rabinTools/RabinTextFieldConvert.vue"
+  },
+  "WalletDepositModal": {
+    "description": "Auto imported from components/wallet/DepositModal.vue"
+  },
+  "WalletDepositsDataTable": {
+    "description": "Auto imported from components/wallet/DepositsDataTable.vue"
+  },
+  "WalletBox": {
+    "description": "Auto imported from components/wallet/WalletBox.vue"
+  },
+  "WalletCryptoCards": {
+    "description": "Auto imported from components/wallet/WalletCryptoCards.vue"
+  },
+  "WalletCryptoSlider": {
+    "description": "Auto imported from components/wallet/WalletCryptoSlider.vue"
+  },
+  "WalletTransactionsTables": {
+    "description": "Auto imported from components/wallet/WalletTransactionsTables.vue"
+  },
+  "WalletWithdrawDataTable": {
+    "description": "Auto imported from components/wallet/WithdrawDataTable.vue"
+  },
+  "WalletWithdrawModal": {
+    "description": "Auto imported from components/wallet/WithdrawModal.vue"
+  },
+  "ChartsOrginTradingviewBinanceTradingView": {
+    "description": "Auto imported from components/charts/OrginTradingview/BinanceTradingView.vue"
+  },
+  "ChartsOrginTradingview": {
+    "description": "Auto imported from components/charts/OrginTradingview/OrginTradingview.vue"
+  },
+  "DashboardBankCardList": {
+    "description": "Auto imported from components/dashboard/bankCard/BankCardList.vue"
+  },
+  "DashboardBankCardMobile": {
+    "description": "Auto imported from components/dashboard/bankCard/BankCardMobile.vue"
+  },
+  "DashboardBankShebaList": {
+    "description": "Auto imported from components/dashboard/bankCard/BankShebaList.vue"
+  },
+  "DashboardBankTransactionList": {
+    "description": "Auto imported from components/dashboard/bankCard/BankTransactionList.vue"
+  },
+  "DashboardBankCardNewBankCardForm": {
+    "description": "Auto imported from components/dashboard/bankCard/NewBankCardForm.vue"
+  },
+  "DashboardCharityCard": {
+    "description": "Auto imported from components/dashboard/charity/charityCard.vue"
+  },
+  "DashboardOrderHistoryTable": {
+    "description": "Auto imported from components/dashboard/history/DashboardOrderHistoryTable.vue"
+  },
+  "DashboardKycItem": {
+    "description": "Auto imported from components/dashboard/kyc/Item.vue"
+  },
+  "DashboardKycList": {
+    "description": "Auto imported from components/dashboard/kyc/List.vue"
+  },
+  "DashboardKycRabinKyc": {
+    "description": "Auto imported from components/dashboard/kyc/RabinKyc.vue"
+  },
+  "DashboardMainRecentActivities": {
+    "description": "Auto imported from components/dashboard/main/RecentActivities.vue"
+  },
+  "DashboardMainWalletStatus": {
+    "description": "Auto imported from components/dashboard/main/WalletStatus.vue"
+  },
+  "DashboardMainWalletValueChart": {
+    "description": "Auto imported from components/dashboard/main/WalletValueChart.vue"
+  },
+  "DashboardNavbar": {
+    "description": "Auto imported from components/dashboard/navbar/DashboardNavbar.vue"
+  },
+  "DashboardNewOrderTickerTape": {
+    "description": "Auto imported from components/dashboard/newOrder/TickerTape.vue"
+  },
+  "DashboardOtcNewOtcOrder": {
+    "description": "Auto imported from components/dashboard/otc/NewOtcOrder.vue"
+  },
+  "DashboardOtcNewOtcOrderSkeletonLoader": {
+    "description": "Auto imported from components/dashboard/otc/NewOtcOrderSkeletonLoader.vue"
+  },
+  "DashboardOtcOrderDetails": {
+    "description": "Auto imported from components/dashboard/otc/OrderDetails.vue"
+  },
+  "DashboardOtcOrderDetailsSkeletonLoader": {
+    "description": "Auto imported from components/dashboard/otc/OrderDetailsSkeletonLoader.vue"
+  },
+  "DashboardOtcOrderList": {
+    "description": "Auto imported from components/dashboard/otc/OrderList.vue"
+  },
+  "DashboardOtcMobile": {
+    "description": "Auto imported from components/dashboard/otc/OtcMobile.vue"
+  },
+  "DashboardReferralInvitedFriends": {
+    "description": "Auto imported from components/dashboard/referral/InvitedFriends.vue"
+  },
+  "DashboardReferralInviteFriends": {
+    "description": "Auto imported from components/dashboard/referral/InviteFriends.vue"
+  },
+  "DashboardReferralList": {
+    "description": "Auto imported from components/dashboard/referral/ReferralList.vue"
+  },
+  "DashboardReferralMatches": {
+    "description": "Auto imported from components/dashboard/referral/ReferralMatches.vue"
+  },
+  "DashboardReferralUserInvitation": {
+    "description": "Auto imported from components/dashboard/referral/UserInvitation.vue"
+  },
+  "DashboardSecurityGoogleAuthentication": {
+    "description": "Auto imported from components/dashboard/security/GoogleAuthentication.vue"
+  },
+  "DashboardSecurityGoogleLogin": {
+    "description": "Auto imported from components/dashboard/security/GoogleLogin.vue"
+  },
+  "DashboardSecurityLoginList": {
+    "description": "Auto imported from components/dashboard/security/LoginList.vue"
+  },
+  "DashboardTicketNewTicketForm": {
+    "description": "Auto imported from components/dashboard/ticket/NewTicketForm.vue"
+  },
+  "DashboardTicketDetails": {
+    "description": "Auto imported from components/dashboard/ticket/TicketDetails.vue"
+  },
+  "DashboardTicketList": {
+    "description": "Auto imported from components/dashboard/ticket/TicketList.vue"
+  },
+  "DashboardTicketMobile": {
+    "description": "Auto imported from components/dashboard/ticket/TicketMobile.vue"
+  },
+  "HomeHomeProDesktopHomePage": {
+    "description": "Auto imported from components/home/HomePro/DesktopHomePage.vue"
+  },
+  "HomeCryptoInfo": {
+    "description": "Auto imported from components/home/HomePro/HomeCryptoInfo.vue"
+  },
+  "HomeCryptoList": {
+    "description": "Auto imported from components/home/HomePro/HomeCryptoList.vue"
+  },
+  "HomeDialog": {
+    "description": "Auto imported from components/home/HomePro/HomeDialog.vue"
+  },
+  "HomeMenuPro": {
+    "description": "Auto imported from components/home/HomePro/HomeMenuPro.vue"
+  },
+  "HomeHomeProMobileHomePage": {
+    "description": "Auto imported from components/home/HomePro/MobileHomePage.vue"
+  },
+  "HomeHomeProRabinFeatures": {
+    "description": "Auto imported from components/home/HomePro/RabinFeatures.vue"
+  },
+  "HomeCryptoSlider": {
+    "description": "Auto imported from components/home/oldVersion/HomeCryptoSlider.vue"
+  },
+  "HomeMenu": {
+    "description": "Auto imported from components/home/oldVersion/HomeMenu.vue"
+  },
+  "HomeOldVersionSelectedCryptoCard": {
+    "description": "Auto imported from components/home/oldVersion/SelectedCryptoCard.vue"
+  },
+  "HomeOldVersionVericalCryptoSlider": {
+    "description": "Auto imported from components/home/oldVersion/VericalCryptoSlider.vue"
+  },
+  "TradeCenterColumnOrderFormClassic": {
+    "description": "Auto imported from components/trade/centerColumn/OrderFormClassic.vue"
+  },
+  "TradeChart": {
+    "description": "Auto imported from components/trade/centerColumn/TradeChart.vue"
+  },
+  "TradeHistory": {
+    "description": "Auto imported from components/trade/centerColumn/TradeHistory.vue"
+  },
+  "TradeHeader": {
+    "description": "Auto imported from components/trade/header/TradeHeader.vue"
+  },
+  "TradeMenu": {
+    "description": "Auto imported from components/trade/header/TradeMenu.vue"
+  },
+  "TradeTopHeader": {
+    "description": "Auto imported from components/trade/header/TradeTopHeader.vue"
+  },
+  "TradeLeftColumnLastTrades": {
+    "description": "Auto imported from components/trade/leftColumn/LastTrades.vue"
+  },
+  "TradeLeftColumnOrderBookList": {
+    "description": "Auto imported from components/trade/leftColumn/OrderBookList.vue"
+  },
+  "TradeMobileTrade": {
+    "description": "Auto imported from components/trade/mobile/MobileTrade.vue"
+  },
+  "TradeOrderFormFields": {
+    "description": "Auto imported from components/trade/orderFormFields/OrderFormFields.vue"
+  },
+  "TradeRightColumnOrderForm": {
+    "description": "Auto imported from components/trade/rightColumn/OrderForm.vue"
+  },
+  "TradeRightColumnRabinMarkets": {
+    "description": "Auto imported from components/trade/rightColumn/RabinMarkets.vue"
+  },
+  "TradeRightColumnWalletOverview": {
+    "description": "Auto imported from components/trade/rightColumn/WalletOverview.vue"
+  },
+  "WalletCryptoCard": {
+    "description": "Auto imported from components/wallet/cryptoCards/WalletCryptoCard.vue"
+  },
+  "WalletRialDeposit": {
+    "description": "Auto imported from components/wallet/rialTransactions/RialDeposit.vue"
+  },
+  "WalletRialWithdraw": {
+    "description": "Auto imported from components/wallet/rialTransactions/RialWithdraw.vue"
+  },
+  "WalletSettingTable": {
+    "description": "Auto imported from components/wallet/setting/SettingTable.vue"
+  },
+  "WalletWalletBoxRadialBarChart": {
+    "description": "Auto imported from components/wallet/walletBox/RadialBarChart.vue"
+  },
+  "DashboardMainRecentActivitySwiper": {
+    "description": "Auto imported from components/dashboard/main/RecentActivities/RecentActivitySwiper.vue"
+  },
+  "DashboardMainRecentActivityTable": {
+    "description": "Auto imported from components/dashboard/main/RecentActivities/RecentActivityTable.vue"
+  },
+  "DashboardReferralReferralListShareReferral": {
+    "description": "Auto imported from components/dashboard/referral/referralList/ShareReferral.vue"
+  },
+  "HomeCryptosMobile": {
+    "description": "Auto imported from components/home/HomePro/MobileHomePage/HomeCryptosMobile.vue"
+  },
+  "TradeHistoryMatchesTable": {
+    "description": "Auto imported from components/trade/centerColumn/tradeHistory/TradeHistoryMatchesTable.vue"
+  },
+  "TradeHistoryTable": {
+    "description": "Auto imported from components/trade/centerColumn/tradeHistory/TradeHistoryTable.vue"
+  },
+  "TradeLeftColumnOrderBookOrderbookTable": {
+    "description": "Auto imported from components/trade/leftColumn/orderBook/OrderbookTable.vue"
+  },
+  "TradeLeftColumnOrderBookTicker": {
+    "description": "Auto imported from components/trade/leftColumn/orderBook/OrderBookTicker.vue"
+  },
+  "TradeOrderFormFieldsVuetify": {
+    "description": "Auto imported from components/trade/orderFormFields/extraForm/OrderFormFieldsVuetify.vue"
+  },
+  "TradeOrderFormFieldsMarketBalance": {
+    "description": "Auto imported from components/trade/orderFormFields/marketBalance/MarketBalance.vue"
+  },
+  "TradeRightColumnOldVersionsWalletView": {
+    "description": "Auto imported from components/trade/rightColumn/oldVersions/WalletView.vue"
+  },
+  "TradeRightColumnWalletCryptosList": {
+    "description": "Auto imported from components/trade/rightColumn/walletOverviewGauge/WalletCryptosList.vue"
+  },
+  "TradeMobileHome": {
+    "description": "Auto imported from components/trade/mobile/trade/home/MobileHome.vue"
+  },
+  "TradeMobileTradeOtherUserStuffs": {
+    "description": "Auto imported from components/trade/mobile/trade/other/UserStuffs.vue"
+  },
+  "TradeMobileRecentActivities": {
+    "description": "Auto imported from components/trade/mobile/trade/recentActivities/MobileRecentActivities.vue"
+  },
+  "TradeMobileTradeView": {
+    "description": "Auto imported from components/trade/mobile/trade/trade/MobileTradeView.vue"
+  },
+  "TradeMobileWalletView": {
+    "description": "Auto imported from components/trade/mobile/trade/wallet/MobileWalletView.vue"
+  },
+  "TradeMobileTradeOtherDialogFullscreenDialog": {
+    "description": "Auto imported from components/trade/mobile/trade/other/Dialog/FullscreenDialog.vue"
+  },
+  "TradeMobileTradeHeader": {
+    "description": "Auto imported from components/trade/mobile/trade/trade/header/MobileTradeHeader.vue"
+  },
+  "TradeMobileTradeTradeSmallOrderBook": {
+    "description": "Auto imported from components/trade/mobile/trade/trade/smallOrderbook/SmallOrderBook.vue"
+  },
+  "TradeMobileDepositWithdraw": {
+    "description": "Auto imported from components/trade/mobile/trade/wallet/MobileWalletView/MobileDepositWithdraw.vue"
+  },
+  "TradeMobileTotalAssets": {
+    "description": "Auto imported from components/trade/mobile/trade/wallet/MobileWalletView/MobileTotalAssets.vue"
+  },
+  "TradeMobileWalletCryptoList": {
+    "description": "Auto imported from components/trade/mobile/trade/wallet/MobileWalletView/MobileWalletCryptoList.vue"
+  }
+}

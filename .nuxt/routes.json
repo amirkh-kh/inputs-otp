@@ -1,0 +1,217 @@
+[
+  {
+    "name": "about-us",
+    "path": "/about-us",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\about-us.vue",
+    "chunkName": "pages/about-us",
+    "url": "/about-us",
+    "_name": "_062d4d88"
+  },
+  {
+    "name": "Charity",
+    "path": "/Charity",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\Charity.vue",
+    "chunkName": "pages/Charity",
+    "url": "/Charity",
+    "_name": "_3f94628a"
+  },
+  {
+    "name": "contact-us",
+    "path": "/contact-us",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\contact-us.vue",
+    "chunkName": "pages/contact-us",
+    "url": "/contact-us",
+    "_name": "_6ac903c9"
+  },
+  {
+    "name": "convert",
+    "path": "/convert",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\convert.vue",
+    "chunkName": "pages/convert",
+    "url": "/convert",
+    "_name": "_4c3bd576"
+  },
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\dashboard\\\\index.vue",
+    "chunkName": "pages/dashboard/index",
+    "url": "/dashboard",
+    "_name": "_21c5ca9c"
+  },
+  {
+    "name": "fee",
+    "path": "/fee",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\fee.vue",
+    "chunkName": "pages/fee",
+    "url": "/fee",
+    "_name": "_791cae98"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "url": "/login",
+    "_name": "_0a091b0a"
+  },
+  {
+    "name": "markets",
+    "path": "/markets",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\markets.vue",
+    "chunkName": "pages/markets",
+    "url": "/markets",
+    "_name": "_2c8d4949"
+  },
+  {
+    "name": "rules",
+    "path": "/rules",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\rules.vue",
+    "chunkName": "pages/rules",
+    "url": "/rules",
+    "_name": "_346155ee"
+  },
+  {
+    "name": "teenagers",
+    "path": "/teenagers",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\teenagers.vue",
+    "chunkName": "pages/teenagers",
+    "url": "/teenagers",
+    "_name": "_27a22878"
+  },
+  {
+    "name": "trade",
+    "path": "/trade",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\trade.vue",
+    "chunkName": "pages/trade",
+    "children": [
+      {
+        "name": "trade-id",
+        "path": ":id?",
+        "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\trade\\\\_id.vue",
+        "chunkName": "pages/trade/_id",
+        "_name": "_6cdf0b98"
+      }
+    ],
+    "_name": "_e3540214"
+  },
+  {
+    "name": "dashboard-bank-cards",
+    "path": "/dashboard/bank-cards",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\dashboard\\\\bank-cards.vue",
+    "chunkName": "pages/dashboard/bank-cards",
+    "url": "/dashboard/bank-cards",
+    "_name": "_70432538"
+  },
+  {
+    "name": "dashboard-convert",
+    "path": "/dashboard/convert",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\dashboard\\\\convert.vue",
+    "chunkName": "pages/dashboard/convert",
+    "url": "/dashboard/convert",
+    "_name": "_75c2227d"
+  },
+  {
+    "name": "dashboard-kyc",
+    "path": "/dashboard/kyc",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\dashboard\\\\kyc.vue",
+    "chunkName": "pages/dashboard/kyc",
+    "url": "/dashboard/kyc",
+    "_name": "_2047fd7f"
+  },
+  {
+    "name": "dashboard-markets",
+    "path": "/dashboard/markets",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\dashboard\\\\markets.vue",
+    "chunkName": "pages/dashboard/markets",
+    "url": "/dashboard/markets",
+    "_name": "_6f2552fe"
+  },
+  {
+    "name": "dashboard-order-history",
+    "path": "/dashboard/order-history",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\dashboard\\\\order-history.vue",
+    "chunkName": "pages/dashboard/order-history",
+    "url": "/dashboard/order-history",
+    "_name": "_007d975f"
+  },
+  {
+    "name": "dashboard-otc",
+    "path": "/dashboard/otc",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\dashboard\\\\otc.vue",
+    "chunkName": "pages/dashboard/otc",
+    "url": "/dashboard/otc",
+    "_name": "_294ea130"
+  },
+  {
+    "name": "dashboard-profile",
+    "path": "/dashboard/profile",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\dashboard\\\\profile\\\\index.vue",
+    "chunkName": "pages/dashboard/profile/index",
+    "url": "/dashboard/profile",
+    "_name": "_3d7679af"
+  },
+  {
+    "name": "dashboard-referral",
+    "path": "/dashboard/referral",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\dashboard\\\\referral.vue",
+    "chunkName": "pages/dashboard/referral",
+    "url": "/dashboard/referral",
+    "_name": "_d91dab7a"
+  },
+  {
+    "name": "dashboard-security",
+    "path": "/dashboard/security",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\dashboard\\\\security.vue",
+    "chunkName": "pages/dashboard/security",
+    "url": "/dashboard/security",
+    "_name": "_47989c66"
+  },
+  {
+    "name": "dashboard-ticket",
+    "path": "/dashboard/ticket",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\dashboard\\\\ticket.vue",
+    "chunkName": "pages/dashboard/ticket",
+    "url": "/dashboard/ticket",
+    "_name": "_699715b2"
+  },
+  {
+    "name": "dashboard-wallet-setting",
+    "path": "/dashboard/wallet/setting",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\dashboard\\\\wallet\\\\setting.vue",
+    "chunkName": "pages/dashboard/wallet/setting",
+    "url": "/dashboard/wallet/setting",
+    "_name": "_2779d07e"
+  },
+  {
+    "name": "dashboard-wallet-transactions",
+    "path": "/dashboard/wallet/transactions",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\dashboard\\\\wallet\\\\transactions.vue",
+    "chunkName": "pages/dashboard/wallet/transactions",
+    "url": "/dashboard/wallet/transactions",
+    "_name": "_23222b98"
+  },
+  {
+    "name": "dashboard-wallet-transfer",
+    "path": "/dashboard/wallet/transfer",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\dashboard\\\\wallet\\\\transfer.vue",
+    "chunkName": "pages/dashboard/wallet/transfer",
+    "url": "/dashboard/wallet/transfer",
+    "_name": "_002e594a"
+  },
+  {
+    "name": "r-id",
+    "path": "/r/:id?",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\r\\\\_id.vue",
+    "chunkName": "pages/r/_id",
+    "_name": "_e087e434"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\RabinCash\\\\RabinCash-v5-FrontEnd\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "url": "/",
+    "_name": "_3153cf64"
+  }
+]
